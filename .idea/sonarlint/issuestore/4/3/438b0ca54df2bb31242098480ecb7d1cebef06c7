@@ -1,0 +1,11 @@
+
+E
+java:S1068"(Remove this unused "text" private field.(š²ûÁ8—çòõ².
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³ŞŸîÿÿÿÿÿ8´­ïô².
+U	java:S106"9Replace this use of System.out or System.err by a logger.(›æŒÁ8–¡ùô².
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(·×óÅüÿÿÿÿ8ÂÑÄõ².
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®Ç“™úÿÿÿÿ8‰’ûô².
+L
+java:S5411"*Use the primitive boolean expression here.(êğ¤ıÿÿÿÿ8¹œ–õ².
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8ÀÇ½÷².
